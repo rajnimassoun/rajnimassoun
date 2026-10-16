@@ -18,5 +18,6 @@ Python · SQL · PySpark · Pandas · scikit-learn · TensorFlow/Keras · XGBoos
 - [breast-cancer-agentic](https://github.com/rajnimassoun/breast-cancer-agentic): end-to-end ML pipeline with EDA, model comparison, and SHAP/LIME explainability
 - [aai550-mental-health-eda](https://github.com/rajnimassoun/aai550-mental-health-eda): analysis of workplace factors linked to mental health treatment in tech
 - [aai-510-final-team-project](https://github.com/iken124895/aai-510-final-team-project): AI contract risk review agent with grounded citations and MLflow evaluation
+- [Investment-Research-Multi-Agent-System](https://github.com/jazz1416/Investment-Research-Multi-Agent-System): team multi-agent system that researches a stock from SEC insider filings, market data, and news; I built the planner, router, and orchestrator
 
 [LinkedIn](https://www.linkedin.com/in/rajni-massoun-1295473) · rajnimassoun@gmail.com
