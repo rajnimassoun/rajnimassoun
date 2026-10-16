@@ -8,9 +8,7 @@ I'm a data scientist finishing my **M.S. in Applied Artificial Intelligence** at
 
 **Experience**
 - **Humana**, Graduate Analytics Intern (Preventive Care Analytics / Stars): HEDIS analysis, PySpark/Databricks pipelines, Power BI dashboards
-
--**Bank of the West**, Data Scientist: Tableau dashboards for the Equipment Finance Division, adopted for executive reporting; SQL and Python automation that cut manual processing time by about 40%
-
+-- **Bank of the West**, Data Scientist: Tableau dashboards for the Equipment Finance Division, adopted for executive reporting; SQL and Python automation that cut manual processing time by about 40%
 **Tools I use**
 
 Python · SQL · PySpark · Pandas · scikit-learn · TensorFlow/Keras · XGBoost · Hugging Face · LangChain/LangGraph · BigQuery · Databricks · Power BI · Tableau · Git
